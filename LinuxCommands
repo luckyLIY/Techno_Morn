@@ -1,0 +1,4 @@
+
+ls -a = list all the files including hidden files
+ls -lrt = lists all the files excluding hidden files
+ls = list the files with out any time stamp and detailis
